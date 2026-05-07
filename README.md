@@ -24,15 +24,15 @@ Open Know it all ninja and MAKE SURE TO START THE QUIZ!
 </p>
 F12 and open dev console and type
 
+```
 allow pasting
+```
 
 Paste main.js into there and it should fully run!
 
 main.py and call.js is the older version.
 
 ## 📸 Screenshots
-
-> **Tip:** You can auto-generate a beautiful project mockup image using the **Screenshot** button above!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Troyydev/DontKnowItAllNinja/refs/heads/main/imgs/running.png" alt="Main Application View" width="80%"/>
