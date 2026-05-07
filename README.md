@@ -18,25 +18,28 @@ DontKnowItAllNinja is a specialized automation utility designed to streamline th
 ## ⚡ Quick Start
 
 ```bash
-
-# Clone the repository
-git clone https://github.com/Troyydev/DontKnowItAllNinja.git
-
-# Install dependencies and run
-
-# (See Development Setup below)
+# Copy all main.js
+# Open Know it all ninja and MAKE SURE TO START THE QUIZ!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Troyydev/DontKnowItAllNinja/refs/heads/main/imgs/start.png" alt="Main Application View" width="80%"/>
+</p>
+# F12 and open dev console and type
+allow pasting
+# Paste main.js into there and it should fully run!
 ```
+
+main.py and call.js is the older version.
 
 ## 📸 Screenshots
 
 > **Tip:** You can auto-generate a beautiful project mockup image using the **Screenshot** button above!
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Main+Application+View" alt="Main Application View" width="80%"/>
+  <img src="https://raw.githubusercontent.com/Troyydev/DontKnowItAllNinja/refs/heads/main/imgs/running.png" alt="Main Application View" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Feature+Showcase" alt="Feature Showcase" width="80%"/>
+  <img src="https://raw.githubusercontent.com/Troyydev/DontKnowItAllNinja/refs/heads/main/imgs/100-percent.png" alt="Feature Showcase" width="80%"/>
 </p>
 
 ## 📁 Project Structure
@@ -70,5 +73,3 @@ Please ensure your code follows the project's style guidelines and includes test
 
 This project is licensed under the LICENSE License.
 
----
-*This README was generated with ❤️ by [ReadmeBuddy](https://readmebuddy.com)*
