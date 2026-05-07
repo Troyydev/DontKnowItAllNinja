@@ -23,9 +23,9 @@ Open Know it all ninja and MAKE SURE TO START THE QUIZ!
   <img src="https://raw.githubusercontent.com/Troyydev/DontKnowItAllNinja/refs/heads/main/imgs/start.png" alt="Main Application View" width="80%"/>
 </p>
 F12 and open dev console and type
-```bash
+
 allow pasting
-```
+
 Paste main.js into there and it should fully run!
 
 main.py and call.js is the older version.
