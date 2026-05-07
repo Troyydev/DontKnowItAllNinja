@@ -13,7 +13,7 @@
 
 ## 📝 Description
 
-DontKnowItAllNinja is a specialized automation utility designed to streamline the learning and assessment experience on the KnowItAllNinja platform. By intelligently automating the process of answering quiz questions and assessments, this tool assists users in navigating their coursework more efficiently. Whether you are looking to save time on repetitive tasks or need a seamless way to verify your progress, DontKnowItAllNinja provides a powerful solution for managing questions automatically.
+DontKnowItAllNinja is a specialized automation utility designed to do your work for you, based on the questions it gets 100% mostly but sometimes it can land as low as 57% depending on questions, the code also spoofs the time so the admin panel wont notice anything strange while looking and the time fully looks like normal workflow. 
 
 ## ⚡ Quick Start
 
